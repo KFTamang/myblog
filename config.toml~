@@ -1,3 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
-languageCode = "en-us"
+baseurl = "http://kftamang.github.io/"
+title = "技術ブログ"
+languageCode = "ja"
+theme = "hugo-zen"
