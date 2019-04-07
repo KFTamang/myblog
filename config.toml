@@ -1,0 +1,4 @@
+baseurl = "http://kftamang.github.io/"
+title = "技術ブログ"
+languageCode = "ja"
+theme = "hugo-zen"
