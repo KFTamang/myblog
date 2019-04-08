@@ -1,4 +1,11 @@
-baseurl = "http://kftamang.github.io/"
+baseurl = "http://KFTamang.github.io/"
 title = "技術ブログ"
 languageCode = "ja"
 theme = "hugo-zen"
+#theme = "hugo-theme-cleanwhite"
+
+[params]
+  logo      = "/images/logo.jpg"
+  github    = "https://github.com/KFTamang"
+
+

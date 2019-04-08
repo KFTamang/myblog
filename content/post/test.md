@@ -2,6 +2,8 @@
 title = "ブログ始めました。"
 draft = false
 date = "2019-04-07T16:04:00+09:00"
+author = "KFTamang"
+copyright = "KFTamang All rights reserved"
 
 +++
 
