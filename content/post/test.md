@@ -24,13 +24,23 @@ copyright = "KFTamang All rights reserved"
 
 -------------------
 
-## このブログを作成した方法
+# このブログを作成した方法
 以下のページを参考に、github pagesとHugoを用いて作成しました。
-<https://qiita.com/h6m3_u/items/5893a61091d258936716#3%E8%A8%98%E4%BA%8B%E3%81%AE%E4%BD%9C%E6%88%90>
-<https://blog.mismithportfolio.com/web/20160207hugomyblog#g>
+
+[ Hugo + GitHub Pages でブログのプロトタイプを構築してみた。 ](https://qiita.com/h6m3_u/items/5893a61091d258936716#3%E8%A8%98%E4%BA%8B%E3%81%AE%E4%BD%9C%E6%88%90)
+
+[【Hugo】ゴリラでも分かる静的サイトジェネレーターHugoでオリジナルテーマ作り](https://blog.mismithportfolio.com/web/20160207hugomyblog#g)
+
+[Hugoで新規記事を作成するときのTips的なメモ](https://qiita.com/n0bisuke/items/4701481c3bca4df81b0b)
+テーマはHuabing Zhao氏の[Clean White](https://themes.gohugo.io/hugo-theme-cleanwhite/)を使用しています。
+
 
 ブログ自体がgithubの練習を兼ねています。
 まだ殺風景ですが、おいおい充実させていきたいと思っています。
+
+
+# 参考文献
+[マークダウン記法](https://qiita.com/tbpgr/items/989c6badefff69377da7#-%E3%83%AA%E3%83%B3%E3%82%AF)
 
 
 
