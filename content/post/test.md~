@@ -39,7 +39,6 @@ copyright = "KFTamang All rights reserved"
 まだ殺風景ですが、おいおい充実させていきたいと思っています。
 
 
-
 # 参考文献
 [マークダウン記法](https://qiita.com/tbpgr/items/989c6badefff69377da7#-%E3%83%AA%E3%83%B3%E3%82%AF)
 
