@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "images/.jpg"
+  header_image = "images/header.jpg"
   SEOTitle = "KFTamang Blog"
   description = "成作した作品や技術的なメモを記録してくブログです。"
   keyword = ""
