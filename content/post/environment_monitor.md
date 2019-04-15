@@ -2,7 +2,7 @@
 subtitle = ""
 description = ""
 date = "2019-04-13T01:16:41+09:00"
-author = "     \"\""
+author = "KFTamang"
 image = ""
 tags = [
   "環境モニタ"
@@ -10,7 +10,7 @@ tags = [
 categories = [
   "Tech",
 ]
-title = "environment_monitor"
+title = "環境モニタの製作"
 
 +++
 
