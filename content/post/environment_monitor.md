@@ -11,6 +11,7 @@ categories = [
   "Tech",
 ]
 title = "環境モニタの製作"
+googleAnalytics = "UA-83537418-2"
 
 +++
 

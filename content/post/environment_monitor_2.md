@@ -11,6 +11,7 @@ categories = [
 title = "赤外線リモコンをラズパイから操作する"
 subtitle = ""
 description = ""
+googleAnalytics = "UA-83537418-2"
 
 +++
 
