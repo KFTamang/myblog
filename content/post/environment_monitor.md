@@ -36,7 +36,7 @@ title = "環境モニタの製作"
 * ラズベリーパイ3 モデルB+ 
 * 温湿度センサ DHT11
 * 炭素皮膜抵抗 1k ohm
-* 温度・気圧センサ BMP280
+* 温度・気圧センサ BMP280 *
 * 赤外線LED *
 * 赤外線受信モジュール *
 
@@ -64,4 +64,5 @@ IRLRというPythonライブラリを利用して家電（今のところエア�
 
 [格安スマートリモコンの作り方 - Qiita](https://qiita.com/takjg/items/e6b8af53421be54b62c9)
 
+[赤外線LEDドライブ回路の決定版 - 電脳伝説](https://vintagechips.wordpress.com/2013/10/05/%E8%B5%A4%E5%A4%96%E7%B7%9Aled%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E5%9B%9E%E8%B7%AF%E3%81%AE%E6%B1%BA%E5%AE%9A%E7%89%88/)
 

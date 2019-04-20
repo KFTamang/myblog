@@ -9,7 +9,7 @@ title = "進めているプロジェクト"
 今現在個人で実現したいと思っているプロジェクトを列挙します。
 放置気味になっているものもあるので、ここに挙げることでモチベーションにしていきたいです。
 
-* [ラズパイを用いた部屋の環境モニタ]()
+* [ラズパイを用いた部屋の環境モニタ](https://kftamang.github.io/post/environment_monitor/)
 * すだれコリメータ(Rotation Modulation Collimator, RMC)シミュレータ
 ( [githubレポジトリ](https://github.com/KFTamang/RMCsimulator) )
 * Arduinoを用いた倒立振子
