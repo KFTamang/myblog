@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "images/header.jpg"
   SEOTitle = "KFTamang Blog"
-  description = "成作した作品や技術的なメモを記録してくブログです。"
+  description = "製作した作品や技術的なメモを記録してくブログです。"
   keyword = ""
 #  slogan = "路在脚下，心向远方"
 
