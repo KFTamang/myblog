@@ -13,7 +13,7 @@ categories = [
   "Tech",
 ]
 subtitle = ""
-
+copyright = "KFTamang All rights reserved"
 +++
 
 
