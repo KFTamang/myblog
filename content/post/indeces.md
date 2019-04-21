@@ -12,7 +12,7 @@ googleAnalytics = "UA-83537418-2"
 * [ラズパイを用いた部屋の環境モニタ](https://kftamang.github.io/tags/環境モニタ/)
 * すだれコリメータ(Rotation Modulation Collimator, RMC)シミュレータ
 ( [githubレポジトリ](https://github.com/KFTamang/RMCsimulator) )
-* Arduinoを用いた倒立振子
+* [Arduinoを用いた倒立振子](https://kftamang.github.io/tags/倒立振子/)
 * 音波干渉計
 * マイクアンプ
 

@@ -1,4 +1,6 @@
 +++
+title = ""
+subtitle = ""
 date = ""
 author = "KFTamang"
 image = ""
@@ -8,10 +10,10 @@ tags = [
 categories = [
   "Tech",
 ]
-title = ""
-subtitle = ""
 description = ""
 googleAnalytics = "UA-83537418-2"
+
+copyright = "KFTamang All rights reserved"
 
 +++
 
