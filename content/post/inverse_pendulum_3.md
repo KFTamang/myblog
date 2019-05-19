@@ -6,11 +6,11 @@ tags = [
 categories = [
   "Tech",
 ]
+title = "[倒立振子] 角度の推定"
 subtitle = ""
 date = "2019-05-04T11:41:00+09:00"
 description = ""
 googleAnalytics = "UA-83537418-2"
-title = "inverse_pendulum_3"
 copyright = "KFTamang All rights reserved"
 author = "KFTamang"
 
