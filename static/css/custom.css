@@ -1,0 +1,9 @@
+html {
+ font-family:
+ -apple-system, /* OS X, iOS San Francisco */
+ BlinkMacSystemFont, /* OS X, iOS Chrome San Francisco */
+ "Hiragino Kaku Gothic ProN", /* OS X, iOS ヒラギノ */
+ MyYuGothicM, /* Windows æゴシック */
+ Meiryo, /* Windows メイリオ */
+ sans-serif;
+}

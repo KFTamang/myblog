@@ -58,6 +58,9 @@ home = ["HTML", "RSS", "Algolia"]
   bookmarks = false
   about_me = true
 
+  # custom css for japanese fonts
+  customCSS = ["/css/custom.css"]
+
   [params.social]
   rss            = true 
   email          = "sub.sonic.detonation@gmail.com"
