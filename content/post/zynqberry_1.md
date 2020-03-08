@@ -11,7 +11,7 @@ description = ""
 googleAnalytics = "UA-83537418-2"
 date = "2019-05-23T01:14:50+09:00"
 categories = [
-  "Tech","Zynqberry"
+  "Tech",
 ]
 copyright = "KFTamang All rights reserved"
 subtitle = ""
