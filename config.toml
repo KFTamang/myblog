@@ -13,7 +13,9 @@ hasCJKLanguage = true
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
-[params]
+
+[Params]
+
   header_image = "images/header.jpg"
   SEOTitle = "KFTamang Blog"
   description = "製作した作品や技術的なメモを記録してくブログです。"
@@ -60,8 +62,10 @@ home = ["HTML", "RSS", "Algolia"]
 
   # custom css for japanese fonts
   customCSS = ["/css/custom.css"]
+  thumbnail = ["images/logo/logo.jpg"]
 
-  [params.social]
+
+  [Params.social]
   rss            = true 
   email          = "sub.sonic.detonation@gmail.com"
   #facebook      = "full profile url in facebook"
@@ -75,6 +79,7 @@ home = ["HTML", "RSS", "Algolia"]
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
   
+
   [[params.friend_link]]
   title = "Linda的博客"
   href =  "https://zhaozhihan.com"
@@ -108,3 +113,5 @@ notAlternative = true
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"] 
+
+
