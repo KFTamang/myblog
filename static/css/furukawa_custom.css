@@ -1,4 +1,5 @@
-html {
+body,
+h1, h2, h3, h4, h5, h6 {
  font-family:
  -apple-system, /* OS X, iOS San Francisco */
  BlinkMacSystemFont, /* OS X, iOS Chrome San Francisco */
@@ -6,4 +7,7 @@ html {
  MyYuGothicM, /* Windows æゴシック */
  Meiryo, /* Windows メイリオ */
  sans-serif;
+}
+article{
+ overflow: visible;
 }
