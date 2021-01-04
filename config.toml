@@ -3,7 +3,7 @@ title = "KFTamang Blog"
 theme = "my_theme" #"hugo-theme-cleanwhite"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "kftamang-blog"
 #googleAnalytics = "UA-138665772-1"
 GoogleAnalytics = "UA-83537418-2"
 preserveTaxonomyNames = true
@@ -50,7 +50,8 @@ home = ["HTML", "RSS", "Algolia"]
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
   disqus_proxy = ""
-  disqus_site = ""
+  disqus_site = "kftamang-blog"
+  disqusShortname = "kftamang-blog"
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = false
