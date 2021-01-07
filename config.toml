@@ -50,8 +50,7 @@ home = ["HTML", "RSS", "Algolia"]
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
   disqus_proxy = ""
-  disqus_site = "kftamang-blog"
-  disqusShortname = "kftamang-blog"
+  disqus_site = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = false
