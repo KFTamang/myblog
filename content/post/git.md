@@ -1,5 +1,5 @@
 +++
-title = "本質から理解するgit"
+title = "本質から理解するgit　内部構造編"
 subtitle = ""
 date = "2021-01-01T21:00:09+09:00"
 author = "KFTamang"
@@ -117,3 +117,6 @@ gitの内部構造として重要なのはこのふたつです。
 [Gitを支える内部構造についての話](https://techblog.timers-inc.com/entry/2016/11/14/113154) 
 
 [10.3 Gitの内側 - Gitの参照](https://git-scm.com/book/ja/v2/Git%E3%81%AE%E5%86%85%E5%81%B4-Git%E3%81%AE%E5%8F%82%E7%85%A7)
+
+## gitシリーズ続編書きました
+[本質から理解するgit2 コミット編](https://kftamang.github.io/post/git/)
