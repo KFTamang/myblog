@@ -11,12 +11,15 @@ tags = [
 categories = [
   "Tech"
 ]
-description = ""
+description = "gitをより理解し使いこなすため、gitの内部ではどのようにしてソースコードのバージョンを管理しているのかを解説します。ソースコードは圧縮され、ハッシュ値で管理されます。ディレクトリ構造を反映するツリーオブジェクトがレポジトリを表現します。レポジトリの大元に対応するツリーオブジェクトを指定することで、コミットを表現します。コミットはどのコミットが親なのかという情報を持ち、グラフ構造を形成します。ブランチ（の先頭）やタグはコミットを指定する形で定義されます｡"
 googleAnalytics = "UA-83537418-2"
 
 copyright = "KFTamang All rights reserved"
 
 +++
+
+## gitシリーズ
+[本質から理解するgit2 コミット編](https://kftamang.github.io/post/git2/)
 
 ## ごあいさつ
 あけましておめでとうございます。
@@ -117,6 +120,3 @@ gitの内部構造として重要なのはこのふたつです。
 [Gitを支える内部構造についての話](https://techblog.timers-inc.com/entry/2016/11/14/113154) 
 
 [10.3 Gitの内側 - Gitの参照](https://git-scm.com/book/ja/v2/Git%E3%81%AE%E5%86%85%E5%81%B4-Git%E3%81%AE%E5%8F%82%E7%85%A7)
-
-## gitシリーズ続編書きました
-[本質から理解するgit2 コミット編](https://kftamang.github.io/post/git/)

@@ -11,12 +11,15 @@ tags = [
 categories = [
   "Tech"
 ]
-description = ""
+description = "gitをより理解し使いこなすため、gitのコミットをどう捉えどう使うのがよいか解説します。ソースコードはコンパイルエラーや実行時エラーなどがなく、テストの通る状態でコミットされるべきです。ここまでは動作するという基盤を少しずつ拡張していくことで、開発をよりスムーズに進める助けとなります。コミットをどの程度の頻度で行うかは開発チームによりますが、基本的に機能ごとにコミットを区切るとよいでしょう。"
 googleAnalytics = "UA-83537418-2"
 
 copyright = "KFTamang All rights reserved"
 
 +++
+
+## gitシリーズ
+[本質から理解するgit1 内部構造編](https://kftamang.github.io/post/git/)
 
 ## 本記事の内容
 [前回の記事](https://kftamang.github.io/post/git/)ではgitの内部構造に焦点をあてて解説しました。
