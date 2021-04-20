@@ -33,7 +33,6 @@ copyright = "KFTamang All rights reserved"
 ## コード
 
 ```lorenz.js
-
 function Lorenz(x, y, z){
     this.x = x;
     this.y = y;
@@ -60,7 +59,7 @@ function Lorenz(x, y, z){
 
     this.show = function(){
         noStroke();
-        fill(color(this.x*10 + this.pos + 50, this.y*10 + this.pos + 5, this.z*10 + this.pos + 5));
+        fill(color(this.x*8 + this.pos + 50, this.y*10 + 255 - this.pos + 5, this.z*10  + 255 -  this.pos + 5));
         ellipse(this.x*20 + this.centerx, this.y*10 + this.centery, this.z/10, this.z/10);
         if(this.mode){
             this.pos += 0.1;
@@ -83,7 +82,7 @@ let l = [];
 function setup(){
     var myCanvas = createCanvas(windowWidth, windowHeight);
     myCanvas.class('backgroundsketch');
-    for(var i=0;i<50;i++){
+    for(var i=0;i<100;i++){
         l[i] = new Lorenz(i, 10.0-i, 10.0+i/10);
 
     }
@@ -91,7 +90,7 @@ function setup(){
 
 
 function draw(){
-    for(var i=0;i<50;i++){
+    for(var i=0;i<100;i++){
         l[i].update();
         l[i].show();
     }    
