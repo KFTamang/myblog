@@ -48,7 +48,7 @@ let l = [];
 function setup(){
     var myCanvas = createCanvas(windowWidth, windowHeight);
     myCanvas.class('backgroundsketch');
-    for(var i=0;i<10;i++){
+    for(var i=0;i<50;i++){
         l[i] = new Lorenz(i, 10.0-i, 10.0+i/10);
 
     }
@@ -56,7 +56,7 @@ function setup(){
 
 
 function draw(){
-    for(var i=0;i<10;i++){
+    for(var i=0;i<50;i++){
         l[i].update();
         l[i].show();
     }    
