@@ -1,13 +1,13 @@
-
 function Lorenz(x, y, z){
     this.x = x;
     this.y = y;
     this.z = z;
     this.dt = 0.01;
     
-    this.coef1 = 10;
+    this.coef1 = 10 + random(-1,1);
+    console.log(this.coef1);
     this.coef2 = 28;
-    this.coef3 = 8/3;
+    this.coef3 = 8/3 + random(-0.1, 0.1);
     this.pos = 0;
     this.size = 5;
     this.centerx = 300;
@@ -39,7 +39,6 @@ function Lorenz(x, y, z){
             }
         }
 
-        console.log(this.pos);
     }
 }
 
